@@ -4,7 +4,7 @@ A minimalist black and white portfolio website for Kaung Khant Kyaw, a software 
 
 ## Live Site
 
-[kaungkhantkyaw.vercel.app](https://kaungkhantkyaw.vercel.app)
+[kaung23.vercel.app](https://kaung23.vercel.app)
 
 ## Features
 
